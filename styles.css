@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Hubballi&display=swap');
+input {
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+   border:2px solid#B7CADB ;
+    background-color: #F3E9DD;
+    color: #05595B;
+    font-family: 'Hubballi', cursive;
+  }
+  label{
+    font-family: 'Ubuntu', sans-serif;
+  }
+  .main{
+      text-align: center;
+  }
+  Button{
+
+ margin: 8px 18px 20px;
+  }
+  p{
+    font-family: 'Ubuntu', sans-serif; 
+    margin: 8px 4px;
+    color: #05595B;
+    background-color: bisque;
+    overflow: hidden;
+  width: 100%;
+ 
+    
+  }
+  h2{
+    font-family:  cursive;
+    color: #F10086;
+}
